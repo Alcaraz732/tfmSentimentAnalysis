@@ -7,4 +7,4 @@ Los datasets estan en la carpeta dataset, en formato csv. Los dos primero que de
 
 Finalmente esta disponible también el excel con toda la planificación del proyecto.
 
-¡Cualquier duda no duden en preguntarme!
+¡Cualquier duda no duden en preguntar!
